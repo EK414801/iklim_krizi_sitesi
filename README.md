@@ -2,6 +2,8 @@ TR
 
 🌍 İklim Krizi Bilgi ve Çözüm Portalı 🌿
 
+uyarı şuan taslağı vardır çok yakında çok iyi olacak
+
 "Geleceği kurtarmak için önce anlamak gerekir." 🌎 Bu proje, iklim krizinin ne olduğunu, yıkıcı etkilerini ve en önemlisi bu krizi durdurmak için geliştirilen teknolojik çözüm önerilerini bir araya getiren kapsamlı bir platformdur. ✨
 
 🏗️ Proje Durumu: Yapım Aşaması (Sürüm 1.0) 🚧
@@ -83,6 +85,8 @@ EN
 
 
 🌍 Climate Crisis Information and Solution Portal 🌿
+
+The warning is currently in draft form, it will be much better very soon.
 
 "To save the future, we must first take action." 🌎 This project is a concise platform that brings together technological solutions to understand what the climate crisis is, where the disruption is occurring, and where the most severe crises are unfolding. ✨
 
